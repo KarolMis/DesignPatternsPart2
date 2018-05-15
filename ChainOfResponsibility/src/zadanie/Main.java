@@ -9,5 +9,6 @@ public class Main {
         ania.setTallerChild(antek);
         antek.setTallerChild(tomek);
         ania.processRequest(motherRequest);
+        //init
     }
 }
